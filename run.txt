@@ -1,0 +1,27 @@
+For Frontend,
+
+cd SEO
+cd Frontend
+npm start
+
+For FastApi,
+
+cd SEO
+env\Scripts\activate
+cd .\FastApi\
+uvicorn main:app
+// python .\ntlk.py
+
+
+// if running for first time
+
+For FastApi,
+
+pip install virtualenv
+cd /path/to/your/project
+python -m venv env_name
+.\env_name\Scripts\activate
+pip install -r requirements.txt
+
+
+continue same as above
